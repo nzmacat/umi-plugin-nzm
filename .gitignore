@@ -3,3 +3,4 @@ node_modules
 .umirc.js
 *-lock.json
 *js___jb_tmp___
+lib
